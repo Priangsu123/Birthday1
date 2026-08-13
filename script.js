@@ -70,7 +70,7 @@ const puzzleImages = [
     "Photo3.jpeg",
     "Photo4.jpeg",
     "Photo5.jpeg",
-    "Photo6.jpeg",
+    "Photo (2).jpeg",
     "Photo7.jpeg",
     "Photo8.jpeg",
     "Photo9.jpeg",
