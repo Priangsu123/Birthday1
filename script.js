@@ -36,25 +36,25 @@ const audioTracks = [
     {
         title: "Happy Birthday Song",
         artist: "Birthday Collection",
-        src: "22.mp3"
+        src: "25.mp3"
     },
 
     {
         title: "Celebration Time",
         artist: "Party Hits",
-        src: "23.mp3"
+        src: "Hum_Durd.mpeg"
     },
 
     {
         title: "Party Anthem",
         artist: "Birthday Beats",
-        src: "24.mp3"
+        src: "gilheriyan.mpeg"
     },
     
     {
     title: "Song 25",
     artist: "This is Called love",
-    src: "25.mp3"
+    src: "ApnaBanale.mpeg"
    }
 ];
 
@@ -65,16 +65,14 @@ const audioTracks = [
 
 const puzzleImages = [
 
-    "Photo1.jpeg",
-    "Photo2.jpeg",
-    "Photo3.jpeg",
-    "Photo4.jpeg",
-    "Photo5.jpeg",
-    "Photo (2).jpeg",
-    "Photo7.jpeg",
-    "Photo8.jpeg",
-    "Photo9.jpeg",
-    "Photo10.jpeg"
+    "Bubu1.jpeg",
+    "Bubu2.jpeg",
+    "Bubu3.jpeg",
+    "Bubu4.jpeg",
+    "Bubu5.jpeg",
+    "Bubu6.jpeg",
+    "Bubu7.jpeg",
+    "Bubu8.jpeg"
 
 ];
 
